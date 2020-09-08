@@ -12,7 +12,9 @@ The Repository introduces the basic data structures in python
 | Deque.ipynb | Discuss about Deque and their operations  |
 | Counter.ipynb | Discuss about Counter and their operations  |
 | Dictionary and OrderedDictionary.ipynb | Discuss about Dictionary and their operations  |
-| Dictionary and OrderedDictionary.ipynb | Discuss about Dictionary and their operations  |
+| Dataframe.ipynb | Discuss about DataFrame and operations using pandas  |
+| numpy.ipynb | Discuss about numpy array using numpy library  |
+
 
 
 
