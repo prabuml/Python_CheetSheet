@@ -1,5 +1,5 @@
 
-# Python DataStructure
+# Python DataStructure CheatSheat
 
 The Repository introduces the basic data structures in python
 
