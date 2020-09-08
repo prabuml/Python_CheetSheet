@@ -15,6 +15,7 @@ The Repository introduces the basic data structures in python
 | Dataframe.ipynb | Discuss about DataFrame and operations using pandas  |
 | numpy.ipynb | Discuss about numpy array using numpy library  |
 
+## Code is still in progress. Thus the Code is not very clean or fully documented
 
 
 
